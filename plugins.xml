@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="SLS MAGIC AUTO-CLEAN" version="1.2">
+  <pyqgis_plugin name="SLS MAGIC AUTO-CLEAN" version="1.3" plugin_id="sls_magic">
     <description>Professional SLS topology repair, QA/QC, georeference and toolbox workflow.</description>
     <about>SLS MAGIC AUTO-CLEAN - QGIS plugin with SLS MAGIC logo.</about>
-    <version>1.2</version>
+    <version>1.3</version>
     <qgis_minimum_version>3.28</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN</homepage>
     <file_name>sls_magic.zip</file_name>
-    <icon>icon.png</icon>
+    <icon>https://cdn.jsdelivr.net/gh/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN@main/plugin/sls_magic/icon.png</icon>
     <author_name>SLS MAGIC</author_name>
-    <download_url>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN/releases/download/v1.2/SLS_MAGIC_AUTO_CLEAN_V1.2.zip</download_url>
+    <download_url>https://cdn.jsdelivr.net/gh/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN@main/releases/SLS_MAGIC_AUTO_CLEAN_V1.3.zip</download_url>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
     <tracker>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN/issues</tracker>
