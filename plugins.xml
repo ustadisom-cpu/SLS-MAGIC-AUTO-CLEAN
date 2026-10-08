@@ -8,9 +8,9 @@
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN</homepage>
     <file_name>sls_magic.zip</file_name>
-    <icon>https://cdn.jsdelivr.net/gh/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN@main/plugin/sls_magic/icon.png</icon>
+    <icon>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN/icon.png</icon>
     <author_name>SLS MAGIC</author_name>
-    <download_url>https://cdn.jsdelivr.net/gh/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN@main/releases/SLS_MAGIC_AUTO_CLEAN_V1.3.zip</download_url>
+    <download_url>https://ustadisom-cpu.github.io/SLS-MAGIC-AUTO-CLEAN/releases/SLS_MAGIC_AUTO_CLEAN_V1.3.zip</download_url>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
     <tracker>https://github.com/ustadisom-cpu/SLS-MAGIC-AUTO-CLEAN/issues</tracker>
