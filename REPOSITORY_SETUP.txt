@@ -1,0 +1,26 @@
+SLS MAGIC AUTO-CLEAN — GitHub Repository Setup
+
+1. Create a GitHub repository named:
+   SLS-MAGIC-AUTO-CLEAN
+
+2. Upload all files in this folder.
+
+3. Replace YOUR_GITHUB_USERNAME in plugins.xml.
+
+4. QGIS repository URL:
+   https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/SLS-MAGIC-AUTO-CLEAN/main/plugins.xml
+
+5. QGIS menu:
+   Plugins > Manage and Install Plugins > Settings > Plugin Repositories > Add...
+
+6. Name:
+   SLS MAGIC Official Repository
+
+7. URL:
+   (the URL above)
+
+8. Reload repository.
+
+NOTE:
+The repository must be publicly reachable over HTTPS for normal QGIS users.
+The plugin ZIP itself remains inside releases/.
